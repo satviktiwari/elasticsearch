@@ -1,0 +1,3 @@
+xpack.encryptedSavedObjects.encryptionKey: "thisMustBeExactly32CharactersLong123!"
+xpack.reporting.encryptionKey: "thisMustBeExactly32CharactersLong123!"
+xpack.reporting.roles.enabled: false
